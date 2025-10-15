@@ -13,7 +13,7 @@
     <li><b>Teaching Assistant</b> for <b>COMP 202 (Foundations of Programming)</b></li>
     <li><b>External Ambassador</b> at <b>Women in Tech McGill</b></li>
   </ul>
-  <p>Want to chat? Don’t hesitate to reach out.</p>
+  <p>Want to chat? Reach out to me at areebah.farid@mail.mcgill.ca</p>
 
 
 
