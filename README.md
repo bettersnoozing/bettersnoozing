@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Areebah!</h1>
+<h1 align="center">Hi, Areebah here.</h1>
 <h3 align="center">A Computer Science and Economics student @ McGill University</h3>
 
   </h1>
