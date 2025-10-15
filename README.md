@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areebah!</h1>
 <h3 align="center">A Computer Science and Economics student @ McGill University</h3>
 
-
-  <h1>
-    hi, i'm <span className="highlight">areebah.</span>
-  </h1>
-  <h1>
-    {`i'm`} <span className="typed-text">{text}</span>
   </h1>
   <p>
     I'm currently studying <b>Computer Science</b> at <b>McGill University</b>,
