@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Areebah.</h1>
-<h3 align="center">A Computer Science and Economics student @ McGill University</h3>
+
+<h3 align="center"></h3>
 
   </h1>
   <p>
