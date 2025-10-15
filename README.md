@@ -6,15 +6,12 @@
     I'm currently studying <b>Computer Science</b> at <b>McGill University</b>,
     with a double minor in Entrepreneurship and Economics.
   </p>
-  <p>
-    I'm also the <b>Vice President External</b> at the <b>McGill Computer Science Undergraduate Society</b>,
-    and am currently working on <b>developing software</b> for the <b>McGill Students' Running Club</b> for McRace 2026.
-  </p>
   <p>Some of my non-exhaustive experience:</p>
   <ul>
-    <li>Undergraduate Researcher at McGill School of Computer Science (2024)</li>
-    <li>Teaching Assistant for COMP 202 (Foundations of Programming) (2024)</li>
-    <li>External Ambassador at Women in Tech McGill</li>
+    <li><b>Vice President External</b> at the <b>McGill Computer Science Undergraduate Society</b></li>
+    <li><b>Undergraduate Researcher</b> at <b>McGill School of Computer Science</b></li>
+    <li><b>Teaching Assistant</b> for <b>COMP 202 (Foundations of Programming)</b></li>
+    <li><b>External Ambassador</b> at <b>Women in Tech McGill</b></li>
   </ul>
   <p>Want to chat? Don’t hesitate to reach out.</p>
 
